@@ -161,5 +161,13 @@ python scripts/fetch_and_convert.py \
 - 抓取内容的完整性取决于目标站点是否依赖登录、反爬策略与前端动态渲染。
 - 请遵守目标网站的使用条款与版权规范。
 
-
+---
+##致谢
+致谢
+r.jina.ai — Jina AI 提供的免费 URL 转 Markdown 代理
+defuddle.md — 干净的文章提取服务
+agent-fetch — 本地 URL 内容提取工具
+Playwright — 微信公众号抓取的浏览器自动化
+飞书开放平台 — 飞书文档 API
+向阳乔木joeseesun - URL抓取信息赚Markdown工具
 
