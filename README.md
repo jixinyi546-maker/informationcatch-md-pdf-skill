@@ -1,4 +1,4 @@
-﻿# qiaomu-markdown-pdf-skill
+﻿# informationcatch-markdown-pdf-skill
 
 一个一体化 Skill：
 1. 把 URL 抓取为 Markdown
